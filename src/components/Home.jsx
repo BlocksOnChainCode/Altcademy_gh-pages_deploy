@@ -5,7 +5,7 @@ import { json, checkStatus } from "../utils";
 const Header = () => {
   return (
     <header>
-      <h1>Altcademy Movies Finder</h1>
+      <h1>Altcademy Movie Finder</h1>
     </header>
   );
 };
